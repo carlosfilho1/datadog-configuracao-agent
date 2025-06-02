@@ -6,6 +6,6 @@
 
 ## 2. Permisões para o socket do docker.
 > [!IMPORTANT]
-> sudo usermode -a -G docker dd-agent
-> sudo systemctl restart datadog-agent # Ou o comando apropriado para reiniciar o Agent
+> <i>sudo usermode -a -G docker dd-agent </i><br>
+> <i>sudo systemctl restart datadog-agent # Ou o comando apropriado para reiniciar o Agent</i><br>
 

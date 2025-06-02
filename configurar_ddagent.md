@@ -14,7 +14,8 @@
 > A configuração da integração Docker é feita através de arquivos YAML no diretório de configuração do Datadog Agent. <br>
 > Localização dos arquivos de configuração: Geralmente em <b>/etc/datadog-agent/conf.d/.</b> Dentro desta pasta, você pode ter um diretório <b>docker.d/</b> ou criar um arquivo <b>docker.d/conf.yaml</b>.<br>
 
-    [!NOTE]
+[!NOTE]
+
     # /etc/datadog-agent/conf.d/docker.d/conf.yaml -> Caminho do arquivo
 
     init_config:
